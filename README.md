@@ -51,7 +51,9 @@ Doing so won’t display any output. Now copy the second line and paste it into 
 
 Now, Since you are __familiar with How to create project and repository__ learn more about [push and pull requests](https://guides.github.com/activities/hello-world/)
 
-For more resources please visit[GitHub Guides](https://guides.github.com/)
+For more resources please visit:
+-[GitHub Guides](https://guides.github.com/)
+-[Udacity Free Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775/)
 
 ## The Bottom Line
 
