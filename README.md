@@ -1,6 +1,6 @@
 # Learn-Git-Github
 A beginner's Git and GitHub tutorial 
-`Source: Udacity`
+`Source: Udacity & GitHub Guides`
 
 ---
 
@@ -28,6 +28,8 @@ Click the commit hash, so you can see the changes it contains. In this example, 
 
 Mouse over either the left or right sides. Notice a blue plus icon appears? If you click on it, you can comment on the code at that point in time. This is an excellent feature, as it makes GitHub a truly collaborative coding experience. One last thing, want to comment on the commit as a whole? There’s a comment box at the bottom of every commit. Click through the other tabs, and see what you find in each.
 
+Note: Open source enthusiasts who are __familiar with How to create project and repository__ can skip the content below and learn more about [push and pull requests](https://guides.github.com/activities/hello-world/)
+
 ## Adding Project to GitHub
 
 Now let’s get the simple project we’ve been working on into GitHub. To do that, after you’ve logged in to your account, click the plus symbol in the upper righthand corner, and click New repository from the dropdown. There you’ll see the new project creation form.
@@ -45,6 +47,10 @@ You’ll now be taken to the quick setup page. This page gives you a host of pos
 Doing so won’t display any output. Now copy the second line and paste it into your terminal. This will push our changes to GitHub. You’ll see output, something like that shown in the screenshot below. Now go back to GitHub in your browser and refresh the page. You’ll see our `README.md` and `index.php` displayed in the files list, and the contents of the README.md rendered at the bottom of the page.
 
 ![github-post-first-push](https://user-images.githubusercontent.com/25201562/31314387-4f2c67ba-ac1d-11e7-8c35-707c5d0c2e8f.png)
+
+
+Now, Since you are __familiar with How to create project and repository__ learn more about [push and pull requests](https://guides.github.com/activities/hello-world/)
+
 
 ## The Bottom Line
 
