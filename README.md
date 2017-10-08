@@ -56,6 +56,7 @@ For more resources please visit:
   * [Udacity Free Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775/)
   * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
   * [Github for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+  * [Git Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 
 ## The Bottom Line
 
