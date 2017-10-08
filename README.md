@@ -54,6 +54,8 @@ Now, Since you are __familiar with How to create project and repository__ learn 
 For more resources please visit:
   * [GitHub Guides](https://guides.github.com/)
   * [Udacity Free Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775/)
+  * [How to Contribute to Open SOurce](https://opensource.guide/how-to-contribute/)
+  * [Github for Beginners] (https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 ## The Bottom Line
 
