@@ -52,11 +52,13 @@ Doing so won’t display any output. Now copy the second line and paste it into 
 Now, Since you are __familiar with How to create project and repository__ learn more about [push and pull requests](https://guides.github.com/activities/hello-world/)
 
 For more resources please visit:
+  * [Interactive online tutorial](https://learngitbranching.js.org)
   * [GitHub Guides](https://guides.github.com/)
   * [Udacity Free Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775/)
   * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
   * [Github for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
   * [Git Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+  * [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ## The Bottom Line
 
