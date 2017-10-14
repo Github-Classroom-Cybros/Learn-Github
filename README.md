@@ -60,6 +60,8 @@ For more resources please visit:
   * [Git Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
   * [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
   * [Slides from MIT SIPB Understanding Git Class](http://web.mit.edu/cluedumps/slides/understanding-git-2008.pdf)
+  * [Try Git](https://try.github.io/levels/1/challenges/1)
+  * [Code School](http://gitreal.codeschool.com/levels/1)
 
 ## The Bottom Line
 
