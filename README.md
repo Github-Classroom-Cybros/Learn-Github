@@ -62,8 +62,9 @@ For more resources please visit:
   * [Slides from MIT SIPB Understanding Git Class](http://web.mit.edu/cluedumps/slides/understanding-git-2008.pdf)
   * [Try Git](https://try.github.io/levels/1/challenges/1)
   * [Code School](http://gitreal.codeschool.com/levels/1)
+  * [CodeCademy] (https://www.codecademy.com/learn/learn-git)
 
 ## The Bottom Line
 
-And that’s the basics of how to work with Git and GitHub. I hope you’ve seen that, whilst there are quite a lot of concepts to take in, once you’ve gotten a handle on the basics, you can pick it up reasonably quickly, if with some patience.
-There’s so much more to cover than there’s the opportunity to do here. But one thing about both Git and GitHub—the community behind them is extremely supportive and generous in the sheer volume of information contributed. You’ll be in good hands.
+And that’s the basics of how to work with Git and GitHub. I hope you’ve seen that, whilst there are quite a lot of concepts to take in, once you’ve gotten a handle on the basics, you can pick it up reasonably quick, with some patience.
+There’s so much more to cover and there’s the opportunity to do so here. But one thing about both Git and GitHub—the community behind them is extremely supportive and generous in the sheer volume of information contributed. You’ll be in good hands.
