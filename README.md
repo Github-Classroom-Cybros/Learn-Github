@@ -62,7 +62,11 @@ For more resources please visit:
   * [Slides from MIT SIPB Understanding Git Class](http://web.mit.edu/cluedumps/slides/understanding-git-2008.pdf)
   * [Try Git](https://try.github.io/levels/1/challenges/1)
   * [Code School](http://gitreal.codeschool.com/levels/1)
-  * [CodeCademy] (https://www.codecademy.com/learn/learn-git)
+  * [CodeCademy](https://www.codecademy.com/learn/learn-git)
+  * Installing Git
+    * [Instructions for Windows](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-windows-md)
+    * [Instructions for Mac](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md)
+    * [Instructions for Linux](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-linux-md)
 
 ## The Bottom Line
 
