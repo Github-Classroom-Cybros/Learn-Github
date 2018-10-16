@@ -62,6 +62,7 @@ For more resources please visit:
   * [Slides from MIT SIPB Understanding Git Class](http://web.mit.edu/cluedumps/slides/understanding-git-2008.pdf)
   * [Try Git](https://try.github.io/levels/1/challenges/1)
   * [Code School](http://gitreal.codeschool.com/levels/1)
+  * [Git and Github in Plain English](https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english)
   * [Git Beginner's Guide for Dummies](http://backlogtool.com/git-guide/en)
   * [CodeCademy](https://www.codecademy.com/learn/learn-git)
   * Installing Git
