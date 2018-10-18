@@ -63,6 +63,7 @@ For more resources please visit:
   * [Try Git](https://try.github.io/levels/1/challenges/1)
   * [Code School](http://gitreal.codeschool.com/levels/1)
   * [Git Beginner's Guide for Dummies](http://backlogtool.com/git-guide/en)
+  * [Learn Git in 30 minutes](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
   * [CodeCademy](https://www.codecademy.com/learn/learn-git)
   * Installing Git
     * [Instructions for Windows](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-windows-md)
