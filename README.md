@@ -64,6 +64,7 @@ For more resources please visit:
   * [Code School](http://gitreal.codeschool.com/levels/1)
   * [Git Beginner's Guide for Dummies](http://backlogtool.com/git-guide/en)
   * [CodeCademy](https://www.codecademy.com/learn/learn-git)
+  * [Github Tutorial | In Depth Explanation on Git & Github](https://www.youtube.com/watch?v=6bjCvZEX52w&t=1414s)
   * Installing Git
     * [Instructions for Windows](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-windows-md)
     * [Instructions for Mac](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md)
